@@ -1,0 +1,2 @@
+# Hastric
+A desktop app
